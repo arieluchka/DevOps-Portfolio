@@ -23,9 +23,10 @@ configuration for creating and maintaining the Dev, Staging and Production envir
 ⚡️ Ingress Controller.
 
 
+
 > [!NOTE]
 > The project is still under development and the readme files are still under construction. Feel free to contact me on 
-[LinkedIn](www.linkedin.com/in/ariel-agranovich-990629264)
+[LinkedIn](https://www.linkedin.com/in/ariel-agranovich-990629264 "my linkedin porfile :)")
  for any question :) 
 
 
