@@ -1,9 +1,12 @@
 # Welcome To My DevOps Portfolio
 
+> No AI tool was used during the work on these Porjects.
 
 
 
 ## K8S development and production space
+>[!IMPORTANT]
+> 🚧🚧🚧 READMEs are still under construction 🚧🚧🚧
 ### Features
 ⚡️ [Terraform 
 code](https://github.com/arieluchka/aks-cluster-project/tree/main/terraform%20file%20for%20cluster%20creation)
