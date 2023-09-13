@@ -7,6 +7,13 @@
 ## K8S development and production space
 >[!IMPORTANT]
 > 🚧🚧🚧 READMEs are still under construction 🚧🚧🚧
+
+### Project map
+    _ test
+    _ test
+    _ test
+        _ test2
+
 ### Features
 ⚡️ [Terraform 
 code](https://github.com/arieluchka/aks-cluster-project/tree/main/terraform%20file%20for%20cluster%20creation)
