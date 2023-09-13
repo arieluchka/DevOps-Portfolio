@@ -5,8 +5,6 @@
 
 
 ## K8S development and production space
->[!IMPORTANT]
-> 🚧🚧🚧 READMEs are still under construction 🚧🚧🚧
 
 ### Project map
 
