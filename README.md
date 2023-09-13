@@ -9,8 +9,12 @@
 > 🚧🚧🚧 READMEs are still under construction 🚧🚧🚧
 
 ### Project map
-100. test
-     _ test list
+
+1. [Terraform for cluster and database deployment; helm charts for jenkins, argocd, namespaces.](https://github.com/arieluchka/aks-cluster-project)
+1. [Python app; jenkinsfile; dockerfile.](https://github.com/arieluchka/aks-cluster-project-app/tree/main#python-application-pipelines-and-image-building-this-repo-is-part-of-my-devops-project)
+1. [ArgoCD configuration; app deployment to the cluster.](https://github.com/arieluchka/aks-cluster-project-deployment/tree/main)
+
+
 
 ### Features
 ⚡️ [Terraform 
@@ -30,13 +34,11 @@ configuration for creating and maintaining the Dev, Staging and Production envir
 
 ⚡️ Ingress Controller.
 
-### Project Readme's
 
-[terraform for cluster and database deployment; helm charts for jenkins, argocd, namespaces.](https://github.com/arieluchka/aks-cluster-project)
 
-[python app; jenkinsfile; dockerfile.](https://github.com/arieluchka/aks-cluster-project-app/tree/main#python-application-pipelines-and-image-building-this-repo-is-part-of-my-devops-project)
 
-[argocd configuration; app deployment to the cluster.](https://github.com/arieluchka/aks-cluster-project-deployment/tree/main)
+
+
 
 
 
